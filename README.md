@@ -23,6 +23,7 @@ Student | Python Developer | Networking Enthusiast
 ## 📫 Connect with Me
 
 🔗 [[LinkedIn]](https://www.linkedin.com/in/pothurajuajay)
+
 📧 pothurajuajay2054@gmail.com
 
 ---
