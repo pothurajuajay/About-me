@@ -22,8 +22,8 @@ Student | Python Developer | Networking Enthusiast
 
 ## 📫 Connect with Me
 
-🔗 [LinkedIn](#) *(share your LinkedIn profile link)*
-📧 Email: **\[your email here]**
+🔗 [[LinkedIn]](https://www.linkedin.com/in/pothurajuajay)
+📧 pothurajuajay2054@gmail.com
 
 ---
 
